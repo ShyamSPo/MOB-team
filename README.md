@@ -24,12 +24,12 @@ This repository contains Infrastructure-as-Code (Terraform), CI/CD pipelines, ba
 ├── demo-data/                      # Sample/demo datasets
 ├── docs/                           # Project documentation
 ├── functions/                      # Serverless / background functions
-├── infra/                          # Terraform IaC configurations[cite: 1]
+├── infra/                          # Terraform IaC configurations
 ├── quizgen/                        # Quiz generation module
 ├── scripts/                        # Utility & operational scripts
 ├── src/                            # Core application / pipeline source code
-├── tests/                          # Test suites (including security/isolation checks)[cite: 1]
+├── tests/                          # Test suites (including security/isolation checks)
 ├── web/ & web-app/                 # Frontend / web application code
-├── azure-pipelines-backend.yml     # Backend CI/CD pipeline[cite: 1]
-├── azure-pipelines-frontend.yml    # Frontend CI/CD pipeline[cite: 1]
+├── azure-pipelines-backend.yml     # Backend CI/CD pipeline
+├── azure-pipelines-frontend.yml    # Frontend CI/CD pipeline
 └── requirements.txt                # Python dependencies
